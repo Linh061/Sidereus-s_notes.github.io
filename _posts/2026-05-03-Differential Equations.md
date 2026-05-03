@@ -1,10 +1,9 @@
 ---
 layout: post
+title: "Differential Equations – Study Notes"
 categories: math
 math: true
 ---
-
-# Differential Equations – Study Notes
 
 ## 1. Basic Definitions
 
