@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Differential Equations – Study Notes"
 categories: math
 math: true
 ---
