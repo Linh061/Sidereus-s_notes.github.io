@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Differential Equations"
 categories: math
 math: true
 ---
