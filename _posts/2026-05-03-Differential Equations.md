@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: math
+math: true
 ---
 
 # Differential Equations – Study Notes
